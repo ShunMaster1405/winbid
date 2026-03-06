@@ -27,7 +27,7 @@ Client (React + TypeScript)
    ├── [Risk Checker]    :8003       │
    ├── [Knowledge Base]  :8004       │
    └── [Admin Service]   :8005       │
-        │
+        │ 
    ┌────▼──────────────────────┐
    │      数据层                │
    │  PostgreSQL + pgvector      │
